@@ -2,4 +2,4 @@
 
 Bài tập thực hành buổi 1:
 - Chương trinh thuật toán Newton-Raphson tìm điểm cực trị của một hàm thực vector sử dụng NumPy.
-- Dữ liệu được thu thập từ https://quotes.toscrape.com/
+- Dữ liệu được thu thập từ sàn thương mại điện từ Shopee
